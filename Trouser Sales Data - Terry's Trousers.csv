@@ -1,0 +1,6 @@
+Product Category,Orders,Avg. Order Value (AOV),Gross Revenue,Return Rate,Returns (Units),Cost Per Return,Total Return Cost,Net Revenue
+Classic Chinos,120,$85,"$10,200.00",20%,24,$12.50,$300.00,"$9,900.00"
+Slim-Fit Denim,200,$110,"$22,000.00",28%,56,$14.00,$784.00,"$21,216.00"
+Corduroy Slacks,85,$95,"$8,075.00",20%,17,$12.50,$212.50,"$7,862.50"
+Baggy Cargo,450,$140,"$63,000.00",36%,162,$15.00,"$2,430.00","$60,570.00"
+Wool Dress Trousers,110,$125,"$13,750.00",30%,33,$13.50,$445.50,"$13,304.50"
