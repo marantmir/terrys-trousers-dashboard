@@ -165,9 +165,8 @@ fig.add_trace(go.Bar(
 fig.update_layout(
     barmode='group',
     template='plotly_dark',
-    background_color='rgba(0,0,0,0)',
-    plot_bgcolor='rgba(0,0,0,0)',
-    paper_bgcolor='rgba(0,0,0,0)',
+    plot_bgcolor='rgba(0,0,0,0)',   # Mantém o fundo interno transparente
+    paper_bgcolor='rgba(0,0,0,0)',  # Mantém o fundo externo transparente
     xaxis=dict(showgrid=False),
     yaxis=dict(gridcolor='#2D3748', title="Lucro Líquido ($)"),
     legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
